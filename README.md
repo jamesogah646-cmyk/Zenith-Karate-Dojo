@@ -199,5 +199,5 @@ Delete the Azure resource group after use to avoid unnecessary costs.
 
 ## 👤 Author
 
-Your Name
+JAMES OGAH AKU
 Cloud Engineer (Aspiring)
